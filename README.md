@@ -12,6 +12,16 @@ and you can install it using [NPM](http://npmjs.org):
 npm install gp-controls
 ```
 
+## Tested/Supported Controllers/Browsers ##
+
+I've only had the chance to test with the
+[Logitech Gamepad F310](http://www.logitech.com/en-au/support/gamepad-f310),
+but I can confirm it works on my Mac! PS3 controllers seem to work, but not in
+browsers. Xbox controllers should be seamless on Windows.
+
+Tested in Chrome, and soon Firefox. Other browsers currently don't support the
+Gamepad API.
+
 ## Usage ##
 
 ### `controller = require('gp-controls')([number,] bindings)` ###
