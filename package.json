@@ -1,0 +1,24 @@
+{
+  "name": "gp-controls",
+  "version": "0.0.0",
+  "description": "A polling interface for the HTML5 Gamepad API",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/gp-controls.git"
+  },
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com/)",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "gkey": "0.0.0"
+  },
+  "keywords": [
+    "gamepad",
+    "api",
+    "browserify",
+    "html5",
+    "input",
+    "controller"
+  ]
+}
